@@ -2,7 +2,6 @@
 
 This is a simple Node.js reverse proxy server built using the `http-proxy` package.  
 It listens on a specified port (default: **9090**) and forwards all incoming HTTP requests to a target server (e.g., an R server running on port **8080**).
-
 ---
 
 ## 🚀 Features
@@ -12,8 +11,6 @@ It listens on a specified port (default: **9090**) and forwards all incoming HTT
 - Logs incoming requests
 - Graceful error handling
 
----
-
 ## 📦 Requirements
 
 - Node.js (v14 or above recommended)
@@ -21,7 +18,6 @@ It listens on a specified port (default: **9090**) and forwards all incoming HTT
 
 - npm init -y
 - npm install http-proxy
----
 
 ## 📁 Installation
 
