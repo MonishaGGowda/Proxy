@@ -18,7 +18,7 @@ It listens on a specified port (default: **9090**) and forwards all incoming HTT
 
 - Node.js (v14 or above recommended)
 - npm
----OR---
+
 - npm init -y
 - npm install http-proxy
 ---
